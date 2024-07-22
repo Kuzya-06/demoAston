@@ -1,5 +1,5 @@
 
 
-public void FirstService {
+public class FirstService {
 
 }
